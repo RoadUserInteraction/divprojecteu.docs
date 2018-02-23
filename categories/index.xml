@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on DIV project</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on DIV project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Mar 2017 13:16:45 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blender</title>
+      <link>/categories/blender/</link>
+      <pubDate>Tue, 28 Mar 2017 13:16:45 +0200</pubDate>
+      
+      <guid>/categories/blender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Makehuman</title>
+      <link>/categories/makehuman/</link>
+      <pubDate>Tue, 28 Mar 2017 09:33:37 +0200</pubDate>
+      
+      <guid>/categories/makehuman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opends</title>
+      <link>/categories/opends/</link>
+      <pubDate>Tue, 28 Mar 2017 13:00:58 +0200</pubDate>
+      
+      <guid>/categories/opends/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

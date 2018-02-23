@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Texture on DIV project</title>
+    <link>/tags/texture/</link>
+    <description>Recent content in Texture on DIV project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Mar 2017 13:16:45 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/texture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Add texture</title>
+      <link>/blender/textureblender/</link>
+      <pubDate>Tue, 28 Mar 2017 13:16:45 +0200</pubDate>
+      
+      <guid>/blender/textureblender/</guid>
+      <description>Create a plane (Shift + A) Add a material by pressing new in the material tab. Add a texture by pressing new in the texture tab. Open the picture you want as texture. Change the view to UV-editing. Choose your picture in the list. Press TAB to go into edit mode and choose Unwrap (U) to paste the picture onto the plane. Make sure you are in Texture display mode</description>
+    </item>
+    
+  </channel>
+</rss>

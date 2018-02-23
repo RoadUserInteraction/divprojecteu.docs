@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/publications/journalpapers/</loc>
+    <lastmod>2018-02-22T13:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/conferencepapers/</loc>
+    <lastmod>2018-02-22T13:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publications/theses/</loc>
+    <lastmod>2018-02-22T13:30:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/opends/</loc>
+    <lastmod>2017-03-31T08:51:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2017-03-31T08:50:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/makehuman/</loc>
+    <lastmod>2017-03-31T08:50:27+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blender/textureblender/</loc>
+    <lastmod>2017-03-28T13:16:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blender/cyclistmodeling/</loc>
+    <lastmod>2017-03-28T13:00:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blender/</loc>
+    <lastmod>2017-03-28T12:11:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blender/animatehumanmodel/</loc>
+    <lastmod>2017-03-28T12:11:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blender/importhuman/</loc>
+    <lastmod>2017-03-28T12:04:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/makehuman/creatinghumanmodel/</loc>
+    <lastmod>2017-03-28T09:33:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/members/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/animation/</loc>
+    <lastmod>2017-03-28T13:00:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/blender/</loc>
+    <lastmod>2017-03-28T13:16:45+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/blender/</loc>
+    <lastmod>2017-03-28T13:16:45+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2017-03-28T13:16:45+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-02-22T13:30:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/human/</loc>
+    <lastmod>2017-03-28T09:33:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/import/</loc>
+    <lastmod>2017-03-28T12:04:48+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/makehuman/</loc>
+    <lastmod>2017-03-28T09:33:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/makehuman/</loc>
+    <lastmod>2017-03-28T09:33:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/model/</loc>
+    <lastmod>2017-03-28T09:33:37+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/opends/</loc>
+    <lastmod>2017-03-28T13:00:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/opends/</loc>
+    <lastmod>2017-03-28T13:00:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publications/</loc>
+    <lastmod>2018-02-22T13:30:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2017-03-28T13:00:58+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/texture/</loc>
+    <lastmod>2017-03-28T13:16:45+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

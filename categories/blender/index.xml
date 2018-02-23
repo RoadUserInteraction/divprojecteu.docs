@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blender on DIV project</title>
+    <link>/categories/blender/</link>
+    <description>Recent content in Blender on DIV project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Mar 2017 13:16:45 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/blender/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Add texture</title>
+      <link>/blender/textureblender/</link>
+      <pubDate>Tue, 28 Mar 2017 13:16:45 +0200</pubDate>
+      
+      <guid>/blender/textureblender/</guid>
+      <description>Create a plane (Shift + A) Add a material by pressing new in the material tab. Add a texture by pressing new in the texture tab. Open the picture you want as texture. Change the view to UV-editing. Choose your picture in the list. Press TAB to go into edit mode and choose Unwrap (U) to paste the picture onto the plane. Make sure you are in Texture display mode</description>
+    </item>
+    
+    <item>
+      <title>How to create animated bicyclist model for OpenDS</title>
+      <link>/blender/cyclistmodeling/</link>
+      <pubDate>Tue, 28 Mar 2017 13:00:58 +0200</pubDate>
+      
+      <guid>/blender/cyclistmodeling/</guid>
+      <description>Prepare the models  Import bike model Bicycle N011211.3ds model using importer 3D Studio in Blender.
+ Create a Human model using MakeHuman modeling tool. Export to .mhx format
+ Import human model.mhx to blender
+ Under default mode
+ Combine both bike and rider model together by placing the rider on the seat of the bike.
+ Create a two Armature bone structure corresponding two pedals to be able to move the pedals, which can be coupled so that human rider model can be moved.</description>
+    </item>
+    
+    <item>
+      <title>How to animate human models</title>
+      <link>/blender/animatehumanmodel/</link>
+      <pubDate>Tue, 28 Mar 2017 12:11:02 +0200</pubDate>
+      
+      <guid>/blender/animatehumanmodel/</guid>
+      <description>Blender&amp;rsquo;s version used for this tutorial is v2.6b. And the tutorial video used as a reference: link
+Prepare the human model  Import the make human model as described in the makeHuman model document (here) The model with be visible. Click the right extension tab to open additional kinematic option. Scroll down and change leg FK to IK both left and right. This is done to constrain the model to ground plane and easily manipulated to make the animation.</description>
+    </item>
+    
+    <item>
+      <title>Importing human model to Blender</title>
+      <link>/blender/importhuman/</link>
+      <pubDate>Tue, 28 Mar 2017 12:04:48 +0200</pubDate>
+      
+      <guid>/blender/importhuman/</guid>
+      <description>1.Open Blender application, to import the make human model
+2.File&amp;gt;user preference&amp;gt; files&amp;gt; Check auto run python script.
+3.To add Makehuman importer
+4.File&amp;gt;user preference&amp;gt; add ons&amp;gt; import-export&amp;gt; check make human importer
+5.To Import the .mhx file go to files&amp;gt;import&amp;gt;make human(.mhx)
+6.You can see the imported model on your workspace</description>
+    </item>
+    
+  </channel>
+</rss>

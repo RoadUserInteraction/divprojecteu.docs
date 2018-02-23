@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DIV project</title>
+    <link>/</link>
+    <description>Recent content on DIV project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Feb 2018 13:30:00 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DIV Publications</title>
+      <link>/publications/journalpapers/</link>
+      <pubDate>Thu, 22 Feb 2018 13:30:00 +0200</pubDate>
+      
+      <guid>/publications/journalpapers/</guid>
+      <description>Boda, C.-N., et al. (2018). &amp;ldquo;Modelling how drivers respond to a bicyclist crossing their path at an intersection: How do test track and driving simulator compare?&amp;rdquo; Accident Analysis &amp;amp; Prevention 111: 238-250. (Read here&amp;hellip;)</description>
+    </item>
+    
+    <item>
+      <title>DIV Publications - Conference papers</title>
+      <link>/publications/conferencepapers/</link>
+      <pubDate>Thu, 22 Feb 2018 13:30:00 +0200</pubDate>
+      
+      <guid>/publications/conferencepapers/</guid>
+      <description>Dozza, M. B., Christian-Nils; Thalya, Prateek; Jaber, Leila; Lubbe, Nils (2017). How do Drivers Negotiate Intersections with Pedestrians? Fractional Factorial Design in an Open-source Driving Simulator. RSS2017 Road Safety &amp;amp; Simulation International Conference, Den Haag, The Netherlands. (Read here&amp;hellip;)</description>
+    </item>
+    
+    <item>
+      <title>DIV Publications - Theses</title>
+      <link>/publications/theses/</link>
+      <pubDate>Thu, 22 Feb 2018 13:30:00 +0200</pubDate>
+      
+      <guid>/publications/theses/</guid>
+      <description>Licentiate thesis Boda, C.-N. (2017). Driver interaction with vulnerable road users: Understanding and modelling driver behaviour for the design and evaluation of intelligent safety systems. Chalmers University. (Read here&amp;hellip;)</description>
+    </item>
+    
+    <item>
+      <title>About the DIV project</title>
+      <link>/about/</link>
+      <pubDate>Fri, 31 Mar 2017 08:50:27 +0200</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Every year, vulnerable road users (VRU: cyclists and pedestrians) account for about 28% of all road fatalities in Europe. Because of their intrinsic vulnerability, cyclists and pedestrians are especially at risk of severe injuries and death in conflicts with motorized vehicles Interaction between VRU and motorized vehicles is particularly critical in crossing scenarios (Dozza and Werneke 2014) where the trajectory of a motorist and a VRU intersect, as well as in longitudinal scenarios when a motorist may overtake a slower VRU (DaCoTa-Project 2011).</description>
+    </item>
+    
+    <item>
+      <title>Add texture</title>
+      <link>/blender/textureblender/</link>
+      <pubDate>Tue, 28 Mar 2017 13:16:45 +0200</pubDate>
+      
+      <guid>/blender/textureblender/</guid>
+      <description>Create a plane (Shift + A) Add a material by pressing new in the material tab. Add a texture by pressing new in the texture tab. Open the picture you want as texture. Change the view to UV-editing. Choose your picture in the list. Press TAB to go into edit mode and choose Unwrap (U) to paste the picture onto the plane. Make sure you are in Texture display mode</description>
+    </item>
+    
+    <item>
+      <title>How to create animated bicyclist model for OpenDS</title>
+      <link>/blender/cyclistmodeling/</link>
+      <pubDate>Tue, 28 Mar 2017 13:00:58 +0200</pubDate>
+      
+      <guid>/blender/cyclistmodeling/</guid>
+      <description>Prepare the models  Import bike model Bicycle N011211.3ds model using importer 3D Studio in Blender.
+ Create a Human model using MakeHuman modeling tool. Export to .mhx format
+ Import human model.mhx to blender
+ Under default mode
+ Combine both bike and rider model together by placing the rider on the seat of the bike.
+ Create a two Armature bone structure corresponding two pedals to be able to move the pedals, which can be coupled so that human rider model can be moved.</description>
+    </item>
+    
+    <item>
+      <title>How to animate human models</title>
+      <link>/blender/animatehumanmodel/</link>
+      <pubDate>Tue, 28 Mar 2017 12:11:02 +0200</pubDate>
+      
+      <guid>/blender/animatehumanmodel/</guid>
+      <description>Blender&amp;rsquo;s version used for this tutorial is v2.6b. And the tutorial video used as a reference: link
+Prepare the human model  Import the make human model as described in the makeHuman model document (here) The model with be visible. Click the right extension tab to open additional kinematic option. Scroll down and change leg FK to IK both left and right. This is done to constrain the model to ground plane and easily manipulated to make the animation.</description>
+    </item>
+    
+    <item>
+      <title>Importing human model to Blender</title>
+      <link>/blender/importhuman/</link>
+      <pubDate>Tue, 28 Mar 2017 12:04:48 +0200</pubDate>
+      
+      <guid>/blender/importhuman/</guid>
+      <description>1.Open Blender application, to import the make human model
+2.File&amp;gt;user preference&amp;gt; files&amp;gt; Check auto run python script.
+3.To add Makehuman importer
+4.File&amp;gt;user preference&amp;gt; add ons&amp;gt; import-export&amp;gt; check make human importer
+5.To Import the .mhx file go to files&amp;gt;import&amp;gt;make human(.mhx)
+6.You can see the imported model on your workspace</description>
+    </item>
+    
+    <item>
+      <title>How to create a human model</title>
+      <link>/makehuman/creatinghumanmodel/</link>
+      <pubDate>Tue, 28 Mar 2017 09:33:37 +0200</pubDate>
+      
+      <guid>/makehuman/creatinghumanmodel/</guid>
+      <description>Open Makehuman application
+ Adjust the Macros to the required human model in the tab Modelling. Where,
+ Gender, Age, Muscle, Weight, Height, Proportions, Skin shade, Ethnicity can be manipulated in the form of percentage.
+ The result of the changes can be seen in the human model instantly.
+ The values of the model created i.e gender, age, weight etc can be seen in the bottom left part of make human.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/members/</guid>
+      <description>Current members  Tjark Kreuzinger (Toyota)
+ Pablo Puente Guillen (Toyota)
+ Nils Lübbe (Autoliv)
+ Prateek Thalya (Autoliv)
+ Marco Dozza (Chalmers University)
+ Christian-Nils Åkerberg Boda (Chalmers University)
+Past members  Annika Larsson (Autoliv)
+ Katarina Bohman (Autoliv, now Volvo Cars)
+ Erik Rosén (Autoliv, now Zenuity)
+Leila Jaber</description>
+    </item>
+    
+  </channel>
+</rss>

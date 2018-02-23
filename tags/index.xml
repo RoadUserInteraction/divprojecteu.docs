@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on DIV project</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on DIV project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Mar 2017 13:00:58 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Animation</title>
+      <link>/tags/animation/</link>
+      <pubDate>Tue, 28 Mar 2017 13:00:58 +0200</pubDate>
+      
+      <guid>/tags/animation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blender</title>
+      <link>/tags/blender/</link>
+      <pubDate>Tue, 28 Mar 2017 13:16:45 +0200</pubDate>
+      
+      <guid>/tags/blender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human</title>
+      <link>/tags/human/</link>
+      <pubDate>Tue, 28 Mar 2017 09:33:37 +0200</pubDate>
+      
+      <guid>/tags/human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Import</title>
+      <link>/tags/import/</link>
+      <pubDate>Tue, 28 Mar 2017 12:04:48 +0200</pubDate>
+      
+      <guid>/tags/import/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Makehuman</title>
+      <link>/tags/makehuman/</link>
+      <pubDate>Tue, 28 Mar 2017 09:33:37 +0200</pubDate>
+      
+      <guid>/tags/makehuman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model</title>
+      <link>/tags/model/</link>
+      <pubDate>Tue, 28 Mar 2017 09:33:37 +0200</pubDate>
+      
+      <guid>/tags/model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opends</title>
+      <link>/tags/opends/</link>
+      <pubDate>Tue, 28 Mar 2017 13:00:58 +0200</pubDate>
+      
+      <guid>/tags/opends/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Texture</title>
+      <link>/tags/texture/</link>
+      <pubDate>Tue, 28 Mar 2017 13:16:45 +0200</pubDate>
+      
+      <guid>/tags/texture/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

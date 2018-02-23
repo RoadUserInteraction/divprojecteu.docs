@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Makehuman on DIV project</title>
+    <link>/categories/makehuman/</link>
+    <description>Recent content in Makehuman on DIV project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Mar 2017 09:33:37 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/makehuman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to create a human model</title>
+      <link>/makehuman/creatinghumanmodel/</link>
+      <pubDate>Tue, 28 Mar 2017 09:33:37 +0200</pubDate>
+      
+      <guid>/makehuman/creatinghumanmodel/</guid>
+      <description>Open Makehuman application
+ Adjust the Macros to the required human model in the tab Modelling. Where,
+ Gender, Age, Muscle, Weight, Height, Proportions, Skin shade, Ethnicity can be manipulated in the form of percentage.
+ The result of the changes can be seen in the human model instantly.
+ The values of the model created i.e gender, age, weight etc can be seen in the bottom left part of make human.</description>
+    </item>
+    
+  </channel>
+</rss>
