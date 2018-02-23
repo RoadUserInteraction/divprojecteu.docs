@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blender on DIV project</title>
+    <title>Blender on OpenDS Documentation</title>
     <link>/categories/blender/</link>
-    <description>Recent content in Blender on DIV project</description>
+    <description>Recent content in Blender on OpenDS Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Mar 2017 13:16:45 +0200</lastBuildDate>
